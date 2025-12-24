@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamAlmeida21
 - 👀 I’m interested in starting my career
-- 🌱 I’m currently learning kml
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me williamabreu010@gmail.com
 - 😄 Pronouns: he/him
