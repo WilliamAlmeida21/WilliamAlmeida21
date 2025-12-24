@@ -2,7 +2,7 @@
 - 👀 I’m interested in starting my career
 - 🌱 I’m currently learning kml
 - 💞️ I’m looking to collaborate on new project
-- 📫 How to reach me abreu.dev.w021@gmail.com
+- 📫 How to reach me williamabreu010@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play football
 
